@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Life Hacker",
+        "description": "Life hacks daily",
+        "image": "https://cdn.iconscout.com/icon/free/png-256/lifehacker-1-461813.png",
+        "link": "https://lifehacker.com/rss"
+    },
+    {
+        "title": "NY Times World",
+        "description": "NY Times World News",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41AD72RCzmL.png",
+        "link": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    },
+    {
+        "title": "Bitcoin Magazine",
+        "description": "The most trusted voice in bitcoin, Bitcoin Magazine provides news, analysis, information, commentary, and price data.",
+        "image": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_400x400.jpg",
+
+        "link": "https://bitcoinmagazine.com/.rss/full/",
+    },
+    {
+        "title": "Fox Sports NBA",
+        "description": "Fox sports NBA news",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",
+        "link": "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&size=30&tags=fs/nba",
+    },
+    {
+        "title": "NASA",
+        "description": "Nasa breaking news",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png",
+        "link": "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+    }
+]
