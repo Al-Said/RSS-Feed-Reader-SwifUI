@@ -3,7 +3,7 @@
 This repository is an example iOS Application with SwiftUI & Combine & MVVM design pattern. Same example of [this repository](https://github.com/Al-Said/RSS-Feed-Reader) with SwiftUI & Combine
 
 ## Demo
-<img src="https://github.com/Al-Said/RSS-Feed-Reader/blob/main/Media/demo.gif" width="340" height="734"/>
+<img src="https://github.com/Al-Said/RSS-Feed-Reader-SwifUI/blob/main/Media/demo.gif" width="340" height="734"/>
 
 ## Features
  - Shows 5 popular RSS Feeds
